@@ -1,0 +1,6 @@
+{
+  "appId": "com.buildingdetection.app",
+  "appName": "Detección de edificios",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
